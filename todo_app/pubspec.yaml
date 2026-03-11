@@ -1,10 +1,10 @@
-name: calculator_app
+name: todo_app
 description: A simple Todo application for Claude Code demo.
 publish_to: 'none'
 version: 1.0.0+1
 
 environment:
-  sdk: ^3.7.0
+  sdk: ^3.8.0
 
 dependencies:
   flutter:
